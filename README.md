@@ -20,7 +20,7 @@ ES读写集群告警监控
 
 
 # 3. 配置监控
-**1. application-idc.properties文件属性介绍**
+**1. application-my.properties文件属性介绍**
 
 \#服务端口
 >server.port = 8888
